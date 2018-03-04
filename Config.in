@@ -1,6 +1,6 @@
 config BR2_PACKAGE_MYTEST
-	bool "libmytest"
+	bool "mytest"
 	depends on BR2_PACKAGE_FFMPEG
 	help
-	  This is a comment that explains what libmytest is. The help text
+	  This is a comment that explains what mytest is. The help text
 	  should be wrapped.
